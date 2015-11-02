@@ -1,0 +1,4 @@
+fake_package:
+  callable: test_callables.callables.test_callable
+fake_package.fake_module:
+  callable: test_callables.callables.test_callable

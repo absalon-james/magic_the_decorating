@@ -1,0 +1,3 @@
+module_key:
+  callable: callable_value
+  config: config_value
